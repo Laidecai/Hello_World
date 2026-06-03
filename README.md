@@ -43,7 +43,6 @@
 ---
 <div align="center">
   <p><i>“道高一尺，魔高一丈。写好代码，方得始终。”</i></p>
-  <p><b>Maintained by Laidecai</b></p>
 </div>
 
 
@@ -60,6 +59,7 @@
       <p><i>“我行我素，不因他人的评判而动摇。我的道，无需他人认同。”</i></p>
         <cite>—— 大爱仙尊·方源</cite>
     </blockquote>
+   <p><b>Maintained by Laidecai</b></p>
     <br>
 </div>
 
