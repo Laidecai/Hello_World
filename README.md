@@ -1,11 +1,8 @@
 # Hello_World
 <div align="center">
-
-# 🌍 Hello World 
-### 仙尊之路，始于足下
-
-<!-- 替换为你的大爱仙尊动态 GIF 链接 -->
-<img src="assets/great_love_venerable.gif" width="200" alt="大爱仙尊" />
+  <img src="assets/daaixianzun.gif
+  width="400" alt="大爱仙尊" />
+</div>
 
 <br>
 
