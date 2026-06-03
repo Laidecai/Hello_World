@@ -15,10 +15,11 @@
 
 <img src="https://img.shields.io/badge/Language-Go-green?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
 
-<p><b>在此，吾以大爱之名，汇聚世间万法。</b></p>
+<p style="color: #ffffff; text-shadow: 0 0 10px #00d2ff;">吾以大爱之名，汇聚世间万法</p>
 <p>欢迎来到我的开源实验场，探索各种语言的无限可能！</p>
 
 </div>
+
 
 ---
 
@@ -47,21 +48,29 @@
 
 
 <div align="center">
-    <br>
-    <!-- 引用语录模块 -->
-    <blockquote style="border-left: 5px solid #000; padding: 10px; background: #f9f9f9;">
-        <p style="font-size: 1.2em; font-family: 'serif';">“魔道也好，正道也罢，能实现目标的便是好代码。”</p>
+    <br>    
+    <details>
+        <summary><b>点击此处，尊者封印</b></summary>
+        <br>
+        <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; border: 1px solid #444;">
+          <img src="assets/quotes/quote_1.png" alt="仙尊语录" width="80%">
+          <p><i>“魔道也好，正道也罢，能实现目标的便是好代码。”</i></p>
       <p><i>“世事如棋，步步为营。在绝对的利益面前，所谓的立场不过是用来欺骗弱者的借口。”</i></p>
       <p><i>“哪怕前路注定是孤独的，哪怕万劫不复，只要心中有坚定的道，那便是永恒的辉煌。”</i></p>
       <p><i>“世人皆知趋利避害，却不知得失只在一念之间，过于计较一时的得失，反而会失去长远的未来。”</i></p>
       <p><i>“利益所在，即是正义所在。如果你不能理解这一点，就永远无法触碰到这个世界的真相。”</i></p>
       <p><i>“失败并不可怕，可怕的是失去了从头再来的勇气。只要还有一口气，我就能翻盘。”</i></p>
-      <p><i>“我行我素，不因他人的评判而动摇。我的道，无需他人认同。”</i></p>
-        <cite>—— 大爱仙尊·方源</cite>
+      <p><i>“我行我素，不因他人的评判而动摇。我的道，无需他人认同。”</i></p> 
+          <cite>—— 大爱仙尊·方源</cite>
     </blockquote>
    <p><b>Maintained by Laidecai</b></p>
     <br>
+        </div>
+    </details>
+    <br>
 </div>
+
+  
 
 
 ## 少年，路就在脚下
