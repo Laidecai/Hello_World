@@ -53,7 +53,9 @@
         <summary><b>点击此处，尊者封印</b></summary>
         <br>
         <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; border: 1px solid #444;">
-          <img src="assets/quotes/quote_1.png" alt="仙尊语录" width="80%">
+          <img src="assets/-.gif"width="45%">
+          <img src="assets/1.gif"width="40%">
+          <img src="assets/2.gif"width="43%"><img src="assets/4.gif"width="43%">
           <p><i>“魔道也好，正道也罢，能实现目标的便是好代码。”</i></p>
       <p><i>“世事如棋，步步为营。在绝对的利益面前，所谓的立场不过是用来欺骗弱者的借口。”</i></p>
       <p><i>“哪怕前路注定是孤独的，哪怕万劫不复，只要心中有坚定的道，那便是永恒的辉煌。”</i></p>
