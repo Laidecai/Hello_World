@@ -56,20 +56,12 @@
         <summary><b>点击此处，尊者封印</b></summary>
         <br>
         <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; border: 1px solid #444;">
-<<<<<<< HEAD
-          <img src="assets/-.gif"width="60%">
-=======
           <img src="assets/main_gif/-.gif"width="60%">
->>>>>>> de563d2 (Update README.md)
       <p><i>“世事如棋，步步为营。在绝对的利益面前，所谓的立场不过是用来欺骗弱者的借口。”</i></p>
       <p><i>“哪怕前路注定是孤独的，哪怕万劫不复，只要心中有坚定的道，那便是永恒的辉煌。”</i></p>
       <p><i>“世人皆知趋利避害，却不知得失只在一念之间，过于计较一时的得失，反而会失去长远的未来。”</i></p>
       <p><i>“失败并不可怕，可怕的是失去了从头再来的勇气。只要还有一口气，我就能翻盘。”</i></p>
-<<<<<<< HEAD
-          <img src="assets/4.gif"width="60%">
-=======
           <img src="assets/main_gif/4.gif"width="60%">
->>>>>>> de563d2 (Update README.md)
       <p><i>“落魄谷中寒风吹，春秋蝉鸣少年归。
 
 荡魂山处石人泪，定仙游走魔向北。
@@ -79,11 +71,7 @@
 宿命天成命中败。仙尊悔而我不悔。”</i></p>
 <div align="center">
     <br>    
-<<<<<<< HEAD
-<img src="assets/1.gif"width="60%">
-=======
 <img src="assets/main_gif/1.gif"width="60%">
->>>>>>> de563d2 (Update README.md)
       <p><i>“早岁已知世事艰，仍许飞鸿荡云间。
 
 一路寒风身如絮，命海沉浮客独行。
@@ -93,11 +81,7 @@
 今朝剑指叠云处，练蛊练人还练天。”</i></p>
 <div align="center">
     <br>    
-<<<<<<< HEAD
-<img src="assets/2.gif"width="60%">
-=======
 <img src="assets/main_gif/2.gif"width="60%">
->>>>>>> de563d2 (Update README.md)
       <p><i>“独帜入渊深未知，身似浮萍命难持。
 
 千州皆朝归海处，一苇青拨戏浪巅。
@@ -107,11 +91,7 @@
 待到天开云雾散，负手直望笑苍天！”</i></p>
 <div align="center">
     <br>
-<<<<<<< HEAD
-<img src="assets/3.gif"width="50%">
-=======
 <img src="assets/main_gif/3.gif"width="50%">
->>>>>>> de563d2 (Update README.md)
       <p><i>“我行我素，不因他人的评判而动摇。我的道，无需他人认同。”</i></p> 
           <cite>—— 大爱仙尊·方源</cite>
     </blockquote>
